@@ -13,12 +13,11 @@ This project demonstrates how to leverage **Azure Synapse Analytics** with **PyS
 - [Architecture](#architecture)
 - [Features](#features)
 - [Setup and Configuration](#setup-and-configuration)
-- [Data ANalysis with SQL](https://github.com/BamideleAdeola/AzureSynapse/blob/main/Analyze%20Internet%20Sales.sql) https://github.com/BamideleAdeola/AzureSynapse/blob/main/SQL_to_query_parquet3.png
+- [Data ANalysis with SQL](https://github.com/BamideleAdeola/AzureSynapse/blob/main/Analyze%20Internet%20Sales.sql) 
 - [Querying with PySpark SQL and Visualization](https://github.com/BamideleAdeola/AzureSynapse/blob/main/Apache_Spark_Synapse.ipynb)
-- [Results and Insights](#results-and-insights)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- [Synaspe_if_no_header](https://github.com/BamideleAdeola/AzureSynapse/blob/main/synapse_if_no_header_.png)
+- [Parquet Data from Synapse](https://github.com/BamideleAdeola/AzureSynapse/blob/main/SQL_to_query_parquet3.png)
+- [SQL to Query JSON in Synapse](https://github.com/BamideleAdeola/AzureSynapse/blob/main/SQL_to_query_JSON2.png)
 
 ---
 
