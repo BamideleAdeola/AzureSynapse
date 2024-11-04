@@ -13,8 +13,8 @@ This project demonstrates how to leverage **Azure Synapse Analytics** with **PyS
 - [Architecture](#architecture)
 - [Features](#features)
 - [Setup and Configuration](#setup-and-configuration)
-- [Data Processing Steps](https://github.com/BamideleAdeola/AzureSynapse/blob/main/Analyze%20Internet%20Sales.sql)
-- [Querying with PySpark SQL](#querying-with-pyspark-sql)
+- [Data ANalysis with SQL](https://github.com/BamideleAdeola/AzureSynapse/blob/main/Analyze%20Internet%20Sales.sql) https://github.com/BamideleAdeola/AzureSynapse/blob/main/SQL_to_query_parquet3.png
+- [Querying with PySpark SQL and Visualization](https://github.com/BamideleAdeola/AzureSynapse/blob/main/Apache_Spark_Synapse.ipynb)
 - [Results and Insights](#results-and-insights)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
@@ -56,8 +56,6 @@ The architecture involves:
 - **Azure Subscription**: Ensure you have access to an Azure account with Synapse Analytics resources.
 - **Azure Synapse Workspace**: Create a Synapse workspace to execute this project.
 - **Azure Data Lake Storage (ADLS)**: Set up a storage account and create containers for storing raw and processed data.
-
-
 
 
 
