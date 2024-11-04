@@ -13,7 +13,7 @@ This project demonstrates how to leverage **Azure Synapse Analytics** with **PyS
 - [Architecture](#architecture)
 - [Features](#features)
 - [Setup and Configuration](#setup-and-configuration)
-- [Data Processing Steps]([data-processing-steps](https://github.com/BamideleAdeola/AzureSynapse/blob/main/Analyze%20Internet%20Sales.sql))
+- [Data Processing Steps](data-processing-steps](https://github.com/BamideleAdeola/AzureSynapse/blob/main/Analyze%20Internet%20Sales.sql)
 - [Querying with PySpark SQL](#querying-with-pyspark-sql)
 - [Results and Insights](#results-and-insights)
 - [Folder Structure](#folder-structure)
